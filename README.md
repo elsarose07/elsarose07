@@ -14,15 +14,18 @@
 
 <div align="center">
 
-# ⚡ TECH EXPLORER ⚡
+
+
+
 
 </div>
 
 ```python
 class Elsa:
-    
+
     def __init__(self):
         self.role = "Computer Science Student"
+
         self.interests = [
             "Software Development",
             "Web Technologies",
@@ -31,16 +34,19 @@ class Elsa:
         ]
 
     def current_status(self):
-        while learning:
+
+        while True:
             build()
             explore()
             improve()
             repeat()
 
+
 me = Elsa()
 ```
 
----
+
+
 
 # 👩‍💻 ABOUT ME
 
