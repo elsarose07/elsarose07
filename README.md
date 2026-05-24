@@ -65,9 +65,7 @@
 
 <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" />
 
-<img width="12" />
 
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" />
 
 </div>
 
@@ -75,7 +73,17 @@
 
 
 ---
+# 📊 GITHUB STATS
 
+<div align="center">
+<p align="center">
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=elsarose07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elsarose07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+</div>
+
+---
 
 # 📈 CONTRIBUTION GRAPH
 
@@ -89,8 +97,7 @@
 
 
 
-# 📊 GITHUB STATS
-
+# 🔥 CONTRIBUTION STREAK
 
 
 <div align="center">
@@ -103,12 +110,12 @@
 
 # 🌱 CURRENTLY LEARNING
 
-<div align="center">
+<p align="center">
 
-| Web Development | Open Source | UI/UX | Problem Solving |
-|---|---|---|---|
+<img src="https://img.shields.io/badge/Learn-Software%20Development-6A00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Real%20Projects-FF0080?style=for-the-badge" />
 
-</div>
+</p>
 
 
 
