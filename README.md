@@ -18,7 +18,7 @@
 
             
 
-<div align="center">
+
 
 
 
@@ -33,11 +33,13 @@
 
 # 👩‍💻 ABOUT ME
 
+<div align="center">
+
  Computer Science student passionate about software development, web technologies, and building practical projects. Continuously learning new technologies and exploring open-source tools.
 
 ---
 
-<div align="center">
+</div>
 
 # 🚀 TECH STACK
 
@@ -74,10 +76,10 @@
 
 ---
 
-<div align="center">
 
 # 📈 CONTRIBUTION GRAPH
 
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsarose07&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
@@ -85,30 +87,34 @@
 ---
 
 
-<div align="center">
+
 
 # 📊 GITHUB STATS
 
 
 
+<div align="center">
 <img height="170em" src="https://streak-stats.demolab.com?user=elsarose07&theme=tokyonight&hide_border=true"/>
 
 </div>
----
 
-<div align="center">
+
+
 
 # 🌱 CURRENTLY LEARNING
+
+<div align="center">
 
 | Web Development | Open Source | UI/UX | Problem Solving |
 |---|---|---|---|
 
 </div>
 
-<div align="center">
+
 
 # 🌐 CONNECT WITH ME
 
+<div align="center">
 <a href="www.linkedin.com/in/elsa-rose-jimmy">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -123,15 +129,10 @@
 
 </div>
 
----
 
 
 
-<div align="center">
 
-### ✨ Code • Create • Innovate ✨
-
-</div>
 
 <div align="center">
 
