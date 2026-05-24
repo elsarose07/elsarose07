@@ -6,11 +6,17 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Learning.+Building.+Exploring.;Passionate+about+Software+Development;Exploring+Web+Technologies+%26+Open+Source;Creating+Projects+with+Creativity+%26+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Software+Development;Web+Technologies;Open+Source+Explorer" />
 
 </div>
 
 ---
+
+
+
+
+
+            
 
 <div align="center">
 
@@ -18,32 +24,9 @@
 
 
 
-</div>
-
-```python
-class Elsa:
-
-    def __init__(self):
-        self.role = "Computer Science Student"
-
-        self.interests = [
-            "Software Development",
-            "Web Technologies",
-            "Open Source",
-            "Problem Solving"
-        ]
-
-    def current_status(self):
-
-        while True:
-            build()
-            explore()
-            improve()
-            repeat()
 
 
-me = Elsa()
-```
+
 
 
 
@@ -101,33 +84,26 @@ me = Elsa()
 
 ---
 
+
 <div align="center">
 
 # 📊 GITHUB STATS
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=elsarose07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 <img height="170em" src="https://streak-stats.demolab.com?user=elsarose07&theme=tokyonight&hide_border=true"/>
 
 </div>
-
 ---
 
 <div align="center">
 
 # 🌱 CURRENTLY LEARNING
 
-</div>
-
-<div align="center">
-
-| Learning | Exploring | Building | Growing |
+| Web Development | Open Source | UI/UX | Problem Solving |
 |---|---|---|---|
-| Web Development | Open Source | Python Projects | Problem Solving |
 
 </div>
-
----
 
 <div align="center">
 
@@ -149,13 +125,7 @@ me = Elsa()
 
 ---
 
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
 
 <div align="center">
 
