@@ -1,39 +1,54 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Elsa+Rose+Jimmy" />
-
-### COMPUTER SCIENCE STUDENT
-
-Learning, building, and exploring technologies to create impactful solutions.  
-Passionate about development, open-source, and opportunities that make a difference.
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tech+Explorer;Open+Source+Learner;Future+Developer;Building+Projects;Always+Learning+New+Things" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Elsa%20Rose%20Jimmy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Tech%20Explorer&descAlignY=60"/>
 
 </div>
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Learning.+Building.+Exploring.;Passionate+about+Software+Development;Exploring+Web+Technologies+%26+Open+Source;Creating+Projects+with+Creativity+%26+Code" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+# ⚡ TECH EXPLORER ⚡
+
+</div>
+
+```python
+class Elsa:
+    
+    def __init__(self):
+        self.role = "Computer Science Student"
+        self.interests = [
+            "Software Development",
+            "Web Technologies",
+            "Open Source",
+            "Problem Solving"
+        ]
+
+    def current_status(self):
+        while learning:
+            build()
+            explore()
+            improve()
+            repeat()
+
+me = Elsa()
+```
+
+---
 
 # 👩‍💻 ABOUT ME
 
-python
-class Developer:
-    def __init__(self):
-        self.name = "Elsa Rose Jimmy"
-        self.role = "Computer Science Student"
-        self.learning = ["Web Development", "Open Source", "Python"]
-        self.focus = ["Building", "Exploring", "Growing"]
+ Computer Science student passionate about software development, web technologies, and building practical projects. Continuously learning new technologies and exploring open-source tools.
 
-    def status(self):
-        return "Always learning new things 🚀"
+---
 
-
-> Computer Science student passionate about software development, web technologies, and building practical projects. Continuously learning new technologies and exploring open-source tools.
-
-
-
+<div align="center">
 
 # 🚀 TECH STACK
 
@@ -65,69 +80,86 @@ class Developer:
 
 </div>
 
-# 📈 GITHUB ACTIVITY
+
+
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elsarose07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BB6CF7&line=00F7FF&point=FFFFFF" width="95%" />
+# 📈 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elsarose07&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
-
-
-# 🔥 CONTRIBUTION STREAK
+---
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=elsarose07&theme=tokyonight&hide_border=true&ring=BB6CF7&fire=FF69B4&currStreakLabel=00F7FF" width="80%" />
-
-</div>
-
 
 # 📊 GITHUB STATS
 
-<div align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=elsarose07&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=elsarose07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=BB6CF7&title_color=00F7FF&text_color=FFFFFF" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsarose07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB6CF7&text_color=FFFFFF" height="180em" />
+<img height="170em" src="https://streak-stats.demolab.com?user=elsarose07&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-
-
-# 🌟 CURRENT FOCUS
+---
 
 <div align="center">
 
-| Learning | Building | Exploring | Opportunities |
-|----------|-----------|------------|----------------|
-| New Technologies | Real-world Projects | Open Source | Collaborations |
+# 🌱 CURRENTLY LEARNING
 
 </div>
 
+<div align="center">
 
+| Learning | Exploring | Building | Growing |
+|---|---|---|---|
+| Web Development | Open Source | Python Projects | Problem Solving |
+
+</div>
+
+---
+
+<div align="center">
 
 # 🌐 CONNECT WITH ME
 
-<div align="center">
-
-<a href="YOUR_LINKEDIN_LINK" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="www.linkedin.com/in/elsa-rose-jimmy">
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/_rose__jimmy_?igsh=ZzJva21yM3hra3hm">
+<img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/elsarose07" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/elsarose07">
+<img src="https://img.shields.io/badge/GitHub-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
+---
 
+<div align="center">
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
+</div>
 
+---
+
+<div align="center">
+
+### ✨ Code • Create • Innovate ✨
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+
+</div>
 
