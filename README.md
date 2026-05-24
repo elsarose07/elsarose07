@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Elsa%20Rose%20Jimmy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20•%20Tech%20Explorer&descAlignY=60"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elsarose07/elsarose07/main/else.jpg" alt="Banner" width="100%" />
+</p>
 
 <div align="center">
 
