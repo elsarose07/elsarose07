@@ -1,4 +1,4 @@
-````md id="a9f2kd"
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Elsa+Rose+Jimmy" />
@@ -14,11 +14,11 @@ Passionate about development, open-source, and opportunities that make a differe
 
 </div>
 
----
+
 
 # 👩‍💻 ABOUT ME
 
-```python
+python
 class Developer:
     def __init__(self):
         self.name = "Elsa Rose Jimmy"
@@ -28,12 +28,12 @@ class Developer:
 
     def status(self):
         return "Always learning new things 🚀"
-```
+
 
 > Computer Science student passionate about software development, web technologies, and building practical projects. Continuously learning new technologies and exploring open-source tools.
 
 
----
+
 
 # 🚀 TECH STACK
 
@@ -64,7 +64,6 @@ class Developer:
 <img src="https://cdn.simpleicons.org/canva/00C4CC" height="60" />
 
 </div>
----
 
 # 📈 GITHUB ACTIVITY
 
@@ -74,7 +73,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🔥 CONTRIBUTION STREAK
 
@@ -84,7 +83,6 @@ class Developer:
 
 </div>
 
----
 
 # 📊 GITHUB STATS
 
@@ -96,7 +94,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🌟 CURRENT FOCUS
 
@@ -108,7 +106,7 @@ class Developer:
 
 </div>
 
----
+
 
 # 🌐 CONNECT WITH ME
 
@@ -128,7 +126,7 @@ class Developer:
 
 </div>
 
----
+
 
 
 
