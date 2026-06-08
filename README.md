@@ -120,7 +120,7 @@
 # 🌐 CONNECT WITH ME
 
 <div align="center">
-<a href="www.linkedin.com/in/elsa-rose-jimmy">
+<a href="https://www.linkedin.com/in/elsa-rose-jimmy">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
